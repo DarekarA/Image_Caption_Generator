@@ -1,4 +1,5 @@
 absl-py==0.12.0
+tensorflow==2.0.0
 cached-property==1.5.2
 cachetools==4.1.1
 catalogue==2.0.1
