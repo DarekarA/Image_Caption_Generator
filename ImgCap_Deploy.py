@@ -9,22 +9,14 @@ import streamlit as st
 import warnings
 warnings.filterwarnings("ignore")
 # EDA Pkgs
-import pandas as pd
 import numpy as np
-import tweepy
-import json
-import openpyxl
 import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('Agg')
 import seaborn as sns
 sns.set_style('darkgrid')
 
-from PIL import Image
-import tensorflow as tf
-from tensorflow.keras.preprocessing import sequence
 from keras.preprocessing.sequence import pad_sequences
-#from keras.models import load_model
 from keras.models import load_model
 from keras import models
 import pickle
@@ -38,12 +30,8 @@ import cv2
 import keras
 print(keras. __version__)
 
-#pip install tensorflow==2.6.0
-import tensorflow
-#print(tensorflow.__version__)
-
-import os
-os.chdir(r'F:\Machine Learning\AI ML\Case Studies\DL\ImageCaption\Deployment')
+#import os
+#os.chdir(r'F:\Machine Learning\AI ML\Case Studies\DL\ImageCaption\Deployment')
 #print(os.getcwd())
 
 
