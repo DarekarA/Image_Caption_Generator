@@ -11,7 +11,6 @@ base58==2.0.1
 bleach==3.2.1
 blinker==1.4
 blis==0.7.4
-Boruta==0.3
 boto3==1.15.6
 botocore==1.18.6
 Brotli==1.0.9
@@ -43,13 +42,9 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.3
 enum-compat==0.0.3
 et-xmlfile==1.0.1
-Flask==1.1.2
-Flask-Compress==1.9.0
-flask-ngrok==0.0.25
 flatbuffers==1.12
 future==0.18.2
 gast==0.4.0
-gensim==4.0.1
 gitdb==4.0.7
 GitPython==3.1.18
 google-auth==1.28.0
@@ -91,13 +86,11 @@ mccabe==0.6.1
 mistune==0.8.4
 mlxtend==0.18.0
 murmurhash==1.0.5
-mysql-connector-python==8.0.25
 nbclient==0.5.0
 nbconvert==6.0.6
 nbformat==5.0.7
 nest-asyncio==1.4.0
 networkx==2.5
-nltk==3.5
 notebook==6.1.4
 numpy==1.19.5
 oauthlib==3.1.0
@@ -107,7 +100,6 @@ opencv-python==4.5.1.48
 openpyxl==3.0.5
 opt-einsum==3.3.0
 packaging==20.4
-pandas==1.2.3
 pandocfilters==1.4.2
 parso==0.7.1
 pathtools==0.1.2
@@ -135,6 +127,7 @@ pyrsistent==0.17.3
 PySocks==1.7.1
 python-dateutil==2.8.1
 pytz==2019.3
+pywin32==228
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==19.0.2
@@ -149,11 +142,8 @@ scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
 six==1.15.0
-sklearn==0.0
 smart-open==3.0.0
 smmap==4.0.0
-spacy==3.0.5
-spacy-legacy==3.0.1
 squarify==0.4.3
 srsly==2.4.0
 statsmodels==0.11.1
@@ -168,7 +158,6 @@ tensorflow-estimator==2.6.0
 termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
-textblob==0.15.3
 thinc==8.0.2
 threadpoolctl==2.1.0
 tk==0.1.0
@@ -177,7 +166,6 @@ toolz==0.11.1
 tornado==6.0.4
 tqdm==4.51.0
 traitlets==5.0.4
-tweepy==3.9.0
 typed-ast==1.4.0
 typer==0.3.2
 typing-extensions==3.7.4.3
@@ -193,6 +181,5 @@ widgetsnbextension==3.5.1
 wordcloud==1.8.0
 wrapt==1.12.1
 xarray==0.17.0
-xgboost==0.90
 xlrd==2.0.1
 zipp==3.2.0
