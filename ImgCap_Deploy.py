@@ -16,9 +16,9 @@ matplotlib.use('Agg')
 import seaborn as sns
 sns.set_style('darkgrid')
 
+from keras import models
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import load_model
-from keras import models
 import pickle
 import cv2
 
