@@ -9,7 +9,6 @@ attrs==20.2.0
 backcall==0.2.0
 base58==2.0.1
 bleach==3.2.1
-blinker==1.4
 blis==0.7.4
 boto3==1.15.6
 botocore==1.18.6
@@ -38,7 +37,6 @@ dash-table==4.11.2
 decorator==4.4.2
 defusedxml==0.6.0
 dtale==1.38.0
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
 entrypoints==0.3
 enum-compat==0.0.3
 et-xmlfile==1.0.1
@@ -60,12 +58,10 @@ importlib-resources==5.1.2
 ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
-ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.17.2
-Jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.14.1
 jsonschema==3.2.0
@@ -84,7 +80,6 @@ MarkupSafe==1.1.1
 matplotlib==3.4.0
 mccabe==0.6.1
 mistune==0.8.4
-mlxtend==0.18.0
 murmurhash==1.0.5
 nbclient==0.5.0
 nbconvert==6.0.6
@@ -97,7 +92,6 @@ oauthlib==3.1.0
 opencv-contrib-python==4.5.2.52
 opencv-contrib-python-headless==4.5.2.52
 opencv-python==4.5.1.48
-openpyxl==3.0.5
 opt-einsum==3.3.0
 packaging==20.4
 pandocfilters==1.4.2
@@ -136,7 +130,6 @@ requests-oauthlib==1.3.0
 retrying==1.3.3
 rsa==4.7.2
 s3transfer==0.3.3
-scikit-learn==0.24.1
 scipy==1.4.1
 seaborn==0.10.0
 Send2Trash==1.5.0
@@ -148,7 +141,6 @@ srsly==2.4.0
 statsmodels==0.11.1
 streamlit==0.87.0
 strsimpy==0.2.0
-sweetviz==2.0.9
 tensorboard==2.6.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
@@ -163,7 +155,6 @@ tk==0.1.0
 toml==0.10.1
 toolz==0.11.1
 tornado==6.0.4
-tqdm==4.51.0
 traitlets==5.0.4
 typed-ast==1.4.0
 typer==0.3.2
@@ -176,8 +167,6 @@ watchdog==0.10.3
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-wordcloud==1.8.0
 wrapt==1.12.1
 xarray==0.17.0
 xlrd==2.0.1
